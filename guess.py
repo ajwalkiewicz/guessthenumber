@@ -24,9 +24,8 @@ def main():
         else:
             print("Too low!")
 
-    print(f"Congratulation!\nYou guess the number in: {tries} tiries")
+    print(f"Congratulation!\nYou guess the number in: {tries} tries")
 
 
 if __name__ == "__main__":
     main()
-        
