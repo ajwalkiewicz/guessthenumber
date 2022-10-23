@@ -8,13 +8,27 @@ Each script I wrote for educational purposes. They meant to be simple to look si
 
 [guess.sh](guess.sh)
 
+```
+bash guess.sh
+```
+
 ## C
 
 [guess.c](guess.c)
 
+```
+gcc guess.c -o guess
+./guess
+```
+
 ## Java
 
 [guess.java](guess.java)
+
+```
+javac guess.java
+java guess
+```
 
 ## JavaScript
 
@@ -23,6 +37,10 @@ To do.
 ## Python
 
 [guess.py](guess.py)
+
+```
+python3 guess.py
+```
 
 ## License
 
