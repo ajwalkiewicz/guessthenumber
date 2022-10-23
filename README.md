@@ -6,7 +6,9 @@ Each script I wrote for educational purposes. They meant to be simple to look si
 
 ## Bash
 
-[guess.sh](guess.sh)
+File: [guess.sh](guess.sh)
+
+To run:
 
 ```
 bash guess.sh
@@ -14,7 +16,9 @@ bash guess.sh
 
 ## C
 
-[guess.c](guess.c)
+File: [guess.c](guess.c)
+
+To run
 
 ```
 gcc guess.c -o guess
@@ -23,7 +27,9 @@ gcc guess.c -o guess
 
 ## Java
 
-[guess.java](guess.java)
+File: [guess.java](guess.java)
+
+To run:
 
 ```
 javac guess.java
@@ -36,7 +42,9 @@ To do.
 
 ## Python
 
-[guess.py](guess.py)
+File: [guess.py](guess.py)
+
+To run:
 
 ```
 python3 guess.py
