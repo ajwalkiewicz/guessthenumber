@@ -25,6 +25,16 @@ gcc guess.c -o guess
 ./guess
 ```
 
+## Golang
+
+File: [guess.go](guess.go)
+
+To run
+
+```
+go run guess.go
+```
+
 ## Java
 
 File: [guess.java](guess.java)
